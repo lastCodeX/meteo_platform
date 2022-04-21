@@ -1,0 +1,14 @@
+{
+  "name": "meteo_platform_server",
+  "version": "1.0.0",
+  "description": "An application for obtaining and decoding weather information for specified airports",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lastCodeX",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
